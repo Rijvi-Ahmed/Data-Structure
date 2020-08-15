@@ -1,2 +1,2 @@
 # Data-Structure
-My lab homework and lab practice problem.
+My lab homework and lab practice problems.
